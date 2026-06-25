@@ -82,6 +82,17 @@ Saudi Arabia emerged as a top-performing market.
 Return rate remained around 10%.
 Customer spending averaged $379 per order.
 
+## Dashboard Screenshots
 
+### Executive Summary
+
+
+### Product Category Analysis
+
+
+### Customer Analytics
+
+
+### Operations Analytics
 
 August recorded peak sales performance.
