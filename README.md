@@ -85,14 +85,15 @@ Customer spending averaged $379 per order.
 ## Dashboard Screenshots
 
 ### Executive Summary
+    https://github.com/shraddhak201/Ecommerce-Sales-Analytics-Dashboard-Power-BI/blob/main/Executive%20Summary%20Dashboard.png
 
 
 ### Product Category Analysis
-
+    https://github.com/shraddhak201/Ecommerce-Sales-Analytics-Dashboard-Power-BI/blob/main/Sales%20Product%20Category%20Analysis.png 
 
 ### Customer Analytics
-
+    https://github.com/shraddhak201/Ecommerce-Sales-Analytics-Dashboard-Power-BI/blob/main/Customer%20Analytics%20Dashboard.png
 
 ### Operations Analytics
+    https://github.com/shraddhak201/Ecommerce-Sales-Analytics-Dashboard-Power-BI/blob/main/Operationa%20Analytics%20Dashboard.png
 
-August recorded peak sales performance.
