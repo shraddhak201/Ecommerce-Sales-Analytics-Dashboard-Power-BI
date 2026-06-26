@@ -82,8 +82,11 @@ Saudi Arabia emerged as a top-performing market.
 Return rate remained around 10%.
 Customer spending averaged $379 per order.
 
-## Dashboard Screenshots
+## Dashboaed 
+     https://github.com/shraddhak201/Ecommerce-Sales-Analytics-Dashboard-Power-BI/blob/main/Ecommerce%20Sales%20Analytics%20Dashboard.pbix
 
+## Dashboard Screenshots
+     
 ### Executive Summary
     https://github.com/shraddhak201/Ecommerce-Sales-Analytics-Dashboard-Power-BI/blob/main/Executive%20Summary%20Dashboard.png
 
